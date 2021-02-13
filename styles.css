@@ -1,0 +1,79 @@
+body {
+  text-align: center;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+/* Top */
+.top {
+  background-color: #1e212d;
+  padding-bottom: 50%;
+  background-image: url("images/IMG_2980.jpg");
+  background-position: center;
+  background-size: 150%;
+}
+
+.profile-pic {
+  width: 150%;
+  position: relative;
+}
+
+.info {
+  background-color: #1e212d;
+  color: white;
+  padding: 18%;
+  size: 100px;
+}
+
+/* middle */
+.skills {
+  padding: 0 10%;
+}
+
+.middle-container {
+  margin: 100 auto 0 auto;
+}
+
+.details {
+  padding: 15% 0;
+  text-align: center;
+}
+
+.left-img {
+  width: 80%;
+  padding: 15% 0;
+}
+
+/* bottom */
+.bottom-container {
+  margin-top: 100px;
+  padding: 50px 0 20px;
+  margin-bottom: 0;
+  background-color: #1e212d;
+}
+
+.footer-link {
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: white;
+}
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.credit {
+  font-size: 12px;
+  color: #eaf6f6;
+}
