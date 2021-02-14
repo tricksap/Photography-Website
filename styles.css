@@ -1,22 +1,35 @@
 body {
   text-align: center;
   font-family: Verdana, sans-serif;
+  color: #1e212d;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  font-family: "Montserrat";
+  font-weight: 700;
 }
 
 h3 {
-  font-size: 100rem;
+  font-size: 2rem;
+  font-family: "Montserrat";
 }
 
 p {
   font-size: 1.5rem;
-  padding: 1rem 10%;
+}
+
+.details p {
+  color: #1e212dc5;
+  font-size: 1rem;
 }
 
 /* Top */
 .info {
   background-color: #1e212d;
   color: white;
-  padding: 16%;
+  padding: 14% 10%;
 }
 
 .top {
@@ -25,13 +38,6 @@ p {
   background-image: url("images/IMG_2980.jpg");
   background-position: center;
   background-size: 200%;
-}
-
-.title-name {
-  color: white;
-  font-size: 3rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
 }
 
 /* middle */
@@ -56,21 +62,10 @@ p {
 /* bottom */
 .bottom-container {
   margin-top: 100px;
-  padding: 50px 0 20px;
+  padding: 30px 0 20px;
   margin-bottom: 0;
   background-color: #1e212d;
 }
-
-.footer-link {
-  margin: 10px 20px;
-  text-decoration: none;
-  font-family: sans-serif;
-  color: white;
-}
-.footer-link:hover {
-  color: #eaf6f6;
-}
-
 .credit {
   font-size: 12px;
   color: #eaf6f6;
