@@ -60,7 +60,7 @@ p {
 }
 
 /* bottom */
-.bottom-container {
+#bottom-container {
   margin-top: 100px;
   padding: 30px 0 20px;
   margin-bottom: 0;
