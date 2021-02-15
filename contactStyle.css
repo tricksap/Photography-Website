@@ -2,6 +2,10 @@ body {
   font-family: Verdana, sans-serif;
   background-color: #1e212d;
 }
+.container {
+  max-width: 50%;
+  padding-top: 5%;
+}
 
 .form-label {
   color: white;
@@ -9,4 +13,21 @@ body {
 
 h1 {
   color: white;
+  display: inline;
+  vertical-align: top;
+  /* margin-right: 50%; */
+}
+
+.close-button {
+}
+
+p {
+  color: white;
+  font-size: 10px;
+}
+
+.button-submit {
+  border-radius: 0;
+  border: 3px solid white;
+  padding: 0.3rem 2rem;
 }

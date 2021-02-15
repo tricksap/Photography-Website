@@ -40,6 +40,12 @@ p {
   background-size: 200%;
 }
 
+.btn {
+  border-radius: 0;
+  border: 3px solid white;
+  margin: 3px;
+}
+
 /* middle */
 .skills {
   padding: 0 10%;
